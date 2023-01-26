@@ -1,3 +1,26 @@
 /* 
     General Styles used on every website (Don't Repeat Yourself)
 */
+.footer {
+  color: white;
+  position: absolute;
+}
+
+.tabla {
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+.imagen {
+  width: 7%;
+}
+
+.jumbotron {
+  position: absolute;
+  top: 24%;
+  left: 14%;
+}
